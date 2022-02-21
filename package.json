@@ -1,0 +1,14 @@
+{
+  "name": "javascript_task",
+  "version": "1.0.0",
+  "description": "task for javascript test",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
